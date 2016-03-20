@@ -1,5 +1,5 @@
 {
-    "name": "lavtanis/chat-with-name",
+    "name": "lavstanis/chat-with-name",
     "description": "just chat with socket io and npm modules",
     "version": "1.0.0",
     "require": {
