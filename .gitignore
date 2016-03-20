@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+predis
+.idea
+node_modules
+index.html
+composer.lock
+vendor
+index.js

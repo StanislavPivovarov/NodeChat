@@ -1,0 +1,7 @@
+{
+    "name": "Chat on Socket Io",
+    "require": {
+        "php": ">=5.5",
+        "predis/predis": "^1.0"
+    }
+}
