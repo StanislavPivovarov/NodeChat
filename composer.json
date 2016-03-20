@@ -1,7 +1,7 @@
 {
     "name": "lavstanis/chat-with-name",
     "description": "just chat with socket io and npm modules",
-    "version": "1.0.0",
+    "version": "1.0",
     "require": {
         "php": ">=5.5",
         "predis/predis": "^1.0"
